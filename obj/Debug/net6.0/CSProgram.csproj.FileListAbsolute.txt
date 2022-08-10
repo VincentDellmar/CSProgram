@@ -1,0 +1,15 @@
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.csproj.AssemblyReference.cache
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.AssemblyInfoInputs.cache
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.AssemblyInfo.cs
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.csproj.CoreCompileInputs.cache
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\bin\Debug\net6.0\CSProgram.exe
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\bin\Debug\net6.0\CSProgram.deps.json
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\bin\Debug\net6.0\CSProgram.runtimeconfig.json
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\bin\Debug\net6.0\CSProgram.dll
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\bin\Debug\net6.0\CSProgram.pdb
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.dll
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\refint\CSProgram.dll
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.pdb
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\CSProgram.genruntimeconfig.cache
+C:\Users\vwdel826\Documents\CODE\repo\CSProgram\obj\Debug\net6.0\ref\CSProgram.dll
